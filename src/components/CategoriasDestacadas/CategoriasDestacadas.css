@@ -1,0 +1,11 @@
+.categorias {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.categorias img {
+    width: 200px;
+}

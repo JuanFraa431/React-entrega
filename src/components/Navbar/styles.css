@@ -1,0 +1,17 @@
+.navbar{
+    width: 100%;
+    height: 75px;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 25px;
+}
+
+.imagenLogo {
+    width: 120px;
+}
+
+.inputBuscar{
+    padding-left: 50px;
+}

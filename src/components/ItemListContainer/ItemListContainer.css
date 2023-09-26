@@ -1,0 +1,14 @@
+
+.contenedor {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 25px 50px 50px 50px;
+}
+
+.tituloCategoria {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}

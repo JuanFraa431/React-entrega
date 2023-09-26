@@ -1,0 +1,11 @@
+.hola4 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    font-family: Roboto, sans-serif;
+    font-weight: bolder;
+    font-size: 39px;
+
+}

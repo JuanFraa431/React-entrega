@@ -1,0 +1,11 @@
+.hola3 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: Roboto, sans-serif;
+    font-weight: bolder;
+    font-size: 39px;
+
+}
