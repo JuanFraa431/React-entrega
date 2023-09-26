@@ -1,4 +1,4 @@
-.brunotrolo {
+.editTexto {
     width: 100%;
     display: flex;
     justify-content: space-around;
@@ -7,14 +7,14 @@
 }
 
 
-.brunotrolo img {
+.editTexto img {
     width: 90px;
     height: 60px;
     aspect-ratio: 3/4;
     object-fit: contain;
 }
 
-.brunotrolo img:hover {
+.editTexto img:hover {
     transform: scale(1.1);
     transition: 1s all;
 }

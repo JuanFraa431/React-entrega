@@ -11,7 +11,7 @@ const ItemList3 = ({ children }) => {
                 flexWrap: "wrap",
             }}
             >
-            <div className="brunotrolo">{children}</div>
+            <div className="editTexto">{children}</div>
         </div>
     );
 };
